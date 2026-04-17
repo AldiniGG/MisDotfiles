@@ -1,4 +1,5 @@
 ani-cli-git
 matcha-gtk-theme
 spotify
+visual-studio-code-bin
 yay-debug
