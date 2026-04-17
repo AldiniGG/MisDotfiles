@@ -15,6 +15,7 @@ fastfetch
 firefox
 garcon
 git
+gnome-keyring
 gobuster
 grub
 john
