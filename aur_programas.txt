@@ -1,0 +1,4 @@
+ani-cli-git
+matcha-gtk-theme
+spotify
+yay-debug
