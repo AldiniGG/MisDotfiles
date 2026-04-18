@@ -21,6 +21,7 @@ grub
 john
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 linux
 linux-firmware
 linux-headers
@@ -59,6 +60,8 @@ whois
 wireplumber
 wireshark-cli
 wireshark-qt
+wmctrl
+xdotool
 xf86-input-evdev
 xf86-input-synaptics
 xfburn

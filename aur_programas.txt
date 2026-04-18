@@ -1,4 +1,5 @@
 ani-cli-git
+libinput-gestures
 matcha-gtk-theme
 spotify
 visual-studio-code-bin
