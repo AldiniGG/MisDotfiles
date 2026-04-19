@@ -1,6 +1,11 @@
 ani-cli-git
+ferdium-bin
 libinput-gestures
 matcha-gtk-theme
+ncspot-bin
+ncspot-bin-debug
+onlyoffice-bin
 spotify
 visual-studio-code-bin
 yay-debug
+zentile-bin

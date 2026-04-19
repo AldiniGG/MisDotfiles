@@ -8,7 +8,10 @@ blackarch-config-icons
 blackarch-menus
 blackarch-mirrorlist
 blackarch-wallpaper
+btop
 dkms
+docker
+docker-compose
 efibootmgr
 exo
 fastfetch
@@ -52,6 +55,7 @@ thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
 thunar-volman
+tmux
 tumbler
 unzip
 usbutils
@@ -107,3 +111,4 @@ xfwm4
 xorg-server
 yay
 yt-dlp
+zram-generator
