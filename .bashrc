@@ -1,7 +1,6 @@
 #
 # ~/.bashrc
 #
-
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
@@ -25,4 +24,8 @@ cp ~/.config/picom/picom.conf . && \
 git add . && \
 git commit -m "Respaldo automático: $(date +%Y-%m-%d_%H:%M)" && \
 git push origin main && \
-echo "--- ¡Sistema respaldado en GitHub, AldiniGG! ---"'
+echo "--- 📦 GitHub actualizado, ahora sincronizando Docker ---" && \
+cd ~/MisDotfiles/docker-toolbox && \
+docker build -t aldinigg/blackarch-toolbox:latest . && \
+docker push aldinigg/blackarch-toolbox:latest && \
+echo "--- ✅ ¡Todo respaldado en GitHub y Docker Hub, AldiniGG! ---"'
