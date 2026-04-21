@@ -1,11 +1,16 @@
 ani-cli-git
+auto-cpufreq
 ferdium-bin
 libinput-gestures
 matcha-gtk-theme
 ncspot-bin
 ncspot-bin-debug
 onlyoffice-bin
+picom-ftlabs-git
+picom-ftlabs-git-debug
 spotify
+timeshift-bin
+timeshift-bin-debug
 visual-studio-code-bin
 yay-debug
 zentile-bin

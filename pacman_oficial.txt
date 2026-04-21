@@ -1,6 +1,7 @@
 aircrack-ng
 alsa-firmware
 alsa-utils
+amd-ucode
 base
 base-devel
 bc
@@ -16,12 +17,17 @@ efibootmgr
 exo
 fastfetch
 firefox
+gamemode
 garcon
 git
 gnome-keyring
 gobuster
 grub
 john
+lib32-gamemode
+lib32-mangohud
+lib32-mesa
+lib32-vulkan-radeon
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
@@ -30,6 +36,7 @@ linux-firmware
 linux-headers
 linux-lts
 linux-lts-headers
+mangohud
 metasploit
 mousepad
 mpv
@@ -41,7 +48,6 @@ ntfs-3g
 os-prober
 pacman-contrib
 parole
-picom
 pipewire
 pipewire-alsa
 pipewire-pulse
@@ -50,6 +56,7 @@ ristretto
 sof-firmware
 sox
 sqlmap
+steam
 syncplay
 thunar
 thunar-archive-plugin
@@ -58,9 +65,12 @@ thunar-volman
 tmux
 tumbler
 unzip
+usb_modeswitch
 usbutils
+vulkan-radeon
 wget
 whois
+wireless-regdb
 wireplumber
 wireshark-cli
 wireshark-qt
