@@ -9,6 +9,9 @@ blackarch-config-icons
 blackarch-menus
 blackarch-mirrorlist
 blackarch-wallpaper
+blueman
+bluez
+bluez-utils
 btop
 dkms
 docker
@@ -23,6 +26,7 @@ git
 gnome-keyring
 gobuster
 grub
+irqbalance
 john
 lib32-gamemode
 lib32-mangohud
@@ -41,6 +45,7 @@ metasploit
 mousepad
 mpv
 nano
+network-manager-applet
 networkmanager
 nikto
 nmap
